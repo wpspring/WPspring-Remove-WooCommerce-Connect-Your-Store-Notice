@@ -4,7 +4,7 @@ Tags: woocommerce connect your store notice, woocommerce admin notice
 Requires at least: 3.0
 Tested up to: 4.9.5
 Donate link: https://wpspring.com/
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 WC requires at least: 2.5
 WC tested up to: 3.3.4
 License: GPLv2 or later
@@ -32,6 +32,9 @@ That's it! The WooCommerce Connect Your Store notice will no longer display.
 2. An example of the WPspring Remove WooCommerce Connect Your Store Notice plugin activated and shows the notice removed.
 
 ## Changelog
+
+### 1.0.2
+* Version bump
 
 ### 1.0.1
 * Update for WP 4.9.5 and WC 3.3.4
