@@ -1,16 +1,16 @@
 <?php
 /**
-	* Plugin Name: WPspring Remove WooCommerce Connect Your Store Notice
+	* Plugin Name: Remove WooCommerce Connect Your Store Notice
 	* Plugin URI: https://wordpress.org/plugins/wpspring-remove-woocommerce-connect-your-store-notice/
 	* Description: This plugin removes the WooCommerce.com Connect Your Store Notice from the WP-Admin header.
-	* Version: 1.0.1
+	* Version: 1.0.2
  *
  * WC requires at least: 2.5
- * WC tested up to: 3.3.1
+ * WC tested up to: 3.3.4
  * Author: WPspring
  * Author URI: https://wpspring.com/
  * Requires at least: 3.0
- * Tested up to: 4.9.4
+ * Tested up to: 4.9.5
  *
  * @author WPspring
  */
