@@ -1,4 +1,4 @@
-# Remove WooCommerce Connect Your Store Notice
+# Remove Connect your store to WooCommerce.com Notice
 Contributors: wpspring
 Tags: woocommerce connect your store notice, woocommerce admin notice
 Requires at least: 3.0
@@ -9,7 +9,7 @@ WC requires at least: 2.5
 WC tested up to: 3.3.4
 License: GPLv2 or later
 
-Remove the WooCommerce.com Connect Your Store notice from the WP-Admin header.
+Remove the Connect your store to WooCommerce.com notice from the WP-Admin header.
 
 ## Description
 
@@ -17,8 +17,7 @@ This plugin makes it easy to remove the WooCommerce.com Connect Your Store notic
 
 The Connect Your Store notice was added in WooCommerce 3.3.1.
 
-If you would like to remove the WooCommerce license and/or helper notices that appear in WooCommerce 3.0x and below,
-please try the [Remove Woothemes Updater Plugin Notice plugin](https://wordpress.org/plugins/remove-woothemes-updater-plugin-notice/).
+If you would like to remove the WooCommerce license and/or helper notices that appear in WooCommerce 3.0x and below, please try the [Remove Woothemes Updater Plugin Notice plugin](https://wordpress.org/plugins/remove-woothemes-updater-plugin-notice/).
 
 ## Installation
 
