@@ -2,11 +2,11 @@
 Contributors: wpspring
 Tags: woocommerce connect your store notice, woocommerce admin notice
 Requires at least: 3.0
-Tested up to: 4.9.5
+Tested up to: 4.9.8
 Donate link: https://wpspring.com/
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 WC requires at least: 2.5
-WC tested up to: 3.3.4
+WC tested up to: 3.4.5
 License: GPLv2 or later
 
 Remove the Connect your store to WooCommerce.com notice from the WP-Admin header.
